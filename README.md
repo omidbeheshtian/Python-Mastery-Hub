@@ -26,8 +26,8 @@ Beginner-friendly projects that introduce fundamental programming concepts in Py
 ### 🚀 Intermediate Projects (More Challenging & Practical)  
 These projects require a deeper understanding of Python concepts like data manipulation, algorithms, and basic AI models.  
 
-- 🤖 **[Machine Learning Model with Fake Data](./intermediate/machine_learning/fake_data_model)**  
-  A simple ML project where we create a predictive model using synthetic (fake) data. This project demonstrates data generation, preprocessing, and model training.  
+- 🤖 **[Machine Learning Model with Fake Data](https://github.com/omidbeheshtian/Python-Mastery-Hub/tree/main/Intermediate/Basic-Machine-Learning)**  
+  A simple ML project where we create a predictive model using synthetic (fake) data. This project demonstrates data generation, preprocessing, and model training. 
 
 ---
 
