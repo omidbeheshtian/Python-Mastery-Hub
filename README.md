@@ -18,7 +18,7 @@ Beginner-friendly projects that introduce fundamental programming concepts in Py
 - ➗ **[Simple Calculator](./beginner/other/simple_calculator)**  
   A basic calculator that performs arithmetic operations like addition, subtraction, multiplication, and division.  
 
-- 🔢 **[Number Guessing Game](./beginner/games/number_guess)**  
+- 🔢 **[Number Guessing Game](https://github.com/omidbeheshtian/Python-Mastery-Hub/blob/main/Beginner/games/number_guess.py)**  
   A game where the computer selects a random number, and the user has to guess it within a limited number of tries.  
 
 ---
