@@ -21,6 +21,9 @@ Beginner-friendly projects that introduce fundamental programming concepts in Py
 - 🔢 **[Number Guessing Game](https://github.com/omidbeheshtian/Python-Mastery-Hub/tree/main/Beginner/games/Number-Guessing-Game)**  
   A game where the computer selects a random number, and the user has to guess it within a limited number of tries.  
 
+- 💭 **[Hangman (Word Guessing Game)](https://github.com/omidbeheshtian/Python-Mastery-Hub/tree/main/Beginner/games/Hang-Man)**  
+  The program randomly selects a word from a predefined list, and the player must guess the word one letter at a time.
+
 ---
 
 ### 🚀 Intermediate Projects (More Challenging & Practical)  
